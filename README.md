@@ -65,7 +65,7 @@ Building the future of intelligent systems with:
   → SQL + Python pipeline for real-time insights
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=xPatrickCoding&show_icons=true)
 
 ## 🛠 Tech Stack
 - 🐍 Python (Machine Learning, Data Processing, AI)
