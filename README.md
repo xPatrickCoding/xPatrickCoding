@@ -64,9 +64,6 @@ Building the future of intelligent systems with:
 - 📊 Data Analytics Platform  
   → SQL + Python pipeline for real-time insights
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=xPatrickCoding&show_icons=true)
-
 ## 🛠 Tech Stack
 - 🐍 Python (Machine Learning, Data Processing, AI)
 - 🗄 SQL (Data Analysis, Query Optimization)
