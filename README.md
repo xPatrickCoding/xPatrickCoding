@@ -58,11 +58,7 @@ Building the future of intelligent systems with:
 - Implemented game logic and UI interactions  
 - **Tech:** Java, JavaFX, Gradle
 
-- 🧠 Homomorphic Encryption Demo  
-  → Encrypted inference on sensitive data
 
-- 📊 Data Analytics Platform  
-  → SQL + Python pipeline for real-time insights
 
 ## 🛠 Tech Stack
 - 🐍 Python (Machine Learning, Data Processing, AI)
