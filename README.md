@@ -17,6 +17,13 @@ Building the future of intelligent systems with:
 
 ## 🚀 Projects
 
+### 🔐 Streaming Data Pipeline mit Kafka & Spark (2026)
+- Development of a scalable real-time data pipeline using Apache Airflow, Kafka, Spark, and Cassandra for processing structured streaming data
+-  Implementation of an end-to-end workflow, from API data ingestion to distributed storage in Cassandra, using an event-driven architecture  
+- **Tech:** Apache Airflow, Apache Kafka, Apache Spark, Cassandra, Python
+
+---
+
 ### 🔐 Federated Learning Benchmarking Framework (2025)
 - Developed a Python-based framework to analyze poisoning attacks in federated learning environments  
 - Focus on robustness, attack simulation, and performance evaluation  
